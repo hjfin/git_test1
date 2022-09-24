@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Change code in version 2
+          change code in version 1
         </a>
       </header>
     </div>
